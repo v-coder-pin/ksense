@@ -15,7 +15,9 @@ This project implements a patient risk scoring system for the DemoMed Healthcare
     npm run build
     ```
     (Requires adding a build script or running `npx tsc`)
-
+3. **Set up your API Key**:
+    Update line 4 in the api.ts file with your personal API key.
+   
 ## Running the Assessment
 
 To run the assessment script directly using `ts-node`:
