@@ -1,7 +1,7 @@
 import axios from 'axios';
 import axiosRetry from 'axios-retry';
 
-export const API_KEY = 'ak_77ecadb96384941a8068b91d954474dda8cacc0ebf3502eb';
+export const API_KEY = '<YOUR_API_KEY>';
 export const BASE_URL = 'https://assessment.ksensetech.com/api';
 
 export interface Patient {
